@@ -1,0 +1,5 @@
+TrajectoryPlannerROS:
+  
+  meter_scoring: true
+  holonomic_robot: false
+  controller_frequency: 22.0

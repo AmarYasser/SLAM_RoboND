@@ -1,0 +1,8 @@
+prefix=/home/asd/Downloads/SLAM/devel
+
+Name: slam_project
+Description: Description of slam_project
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

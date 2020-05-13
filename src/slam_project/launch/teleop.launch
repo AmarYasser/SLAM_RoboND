@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+<!-- lanuch teleop-->
+  <node name="teleop" pkg="slam_project" type="teleop" />
+</launch>
